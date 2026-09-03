@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Calendar Body -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M25,40 h58 v38 q0,5 -5,5 h-48 q-5,0 -5,-5 Z" />
+
+    <!-- Calendar Header -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M30,30 h48 q5,0 5,5 v10 h-58 v-10 q0,-5 5,-5 Z" />
+
+    <!-- Rings -->
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M38,25 h6 v10 h-6 Z M64,25 h6 v10 h-6 Z" />
+
+    <!-- Letter M -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,75 L40,52 L54,64 L68,52 L68,75 L62,75 L62,60 L54,68 L46,60 L46,75 Z" />
+</vector>
